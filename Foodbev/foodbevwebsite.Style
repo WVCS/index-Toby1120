@@ -1,4 +1,4 @@
-<style>
+
 body {
   background-color: #FF4500;
 }
@@ -171,4 +171,3 @@ body {
   /* grid-column: 1 / span 4;  */
   /* grid-row: 3 / span 3; */
 
-</style>
