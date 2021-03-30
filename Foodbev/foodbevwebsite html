@@ -1,0 +1,82 @@
+<html>
+<body>
+  <ul> 
+    <li><a href="#Top">Our main image(logo)</a></li>
+    <li><a href="#Food/Drinks">Food/Drinks</a> </li>
+    <li><a href="#SP">About the Smiling Pizza</a> </li>
+
+   
+       
+  </ul>
+  
+  <div class="container">
+   <blockquote class="imgur-embed-pub" lang="en" data-id="a/sf6slKz" data-context="false" ><a href="//imgur.com/a/sf6slKz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <div class="bottom-left-text">The Smiling Pizza</div>
+  <div class="top-right">By Toby Zaremba</div>
+  <div class="bottom-left-square"></div>
+</div>
+  
+ <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,400i|Nunito:300,300i" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+
+        <title>CSS Grids Gallery</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="gallery">
+                <figure class="gallery__item gallery__item--1">
+                    <img src=https://image.shutterstock.com/image-photo/pizza-smile-on-wooden-table-260nw-355464887.jpg>
+                </figure>
+                <figure class="gallery__item gallery__item--2">
+                    <img src=https://canadify.com/wp-content/uploads/2017/10/5-Medium-Smile-Pizzas-At-Pizza-Pizza-Through-October-22-2017-678x381.jpg>
+                </figure>
+                <figure class="gallery__item gallery__item--3">
+                    <img src=https://media-cdn.tripadvisor.com/media/photo-s/06/41/ed/cd/taverna-vassilis.jpg>
+                </figure>
+                <figure class="gallery__item gallery__item--4">
+                    <img src=https://assets.kraftfoods.com/recipe_images/opendeploy/55157_640x428.jpg>
+                </figure>
+     
+            </div>
+        </div>
+    </body>                                                   
+ <h1 id="Food/Drinks">Food/Drinks</h1>
+  <Table>
+    <tr>
+      <th> Food </th>
+      <th> drinks </th>
+      <th> Prices </th>
+    </tr>
+    
+   <tr> 
+     <td> Pizza  </td>
+     <td> Water</td>
+    <td> pizza 8$ water free</td>
+    </tr>
+    
+    <tr> 
+     <td>  Lettice </td>
+     <td> Soda </td>
+     <td> Lettice 5$ soda 1.50$</td>
+    </tr>
+    
+    <tr> 
+     <td> breedsticks </td>
+     <td> Juice </td>
+     <td> per breedstick 3$ juice 1$</td>
+    </tr>
+   
+  </table> 
+  
+  
+  
+  <h1 id="SP">About the Smiling Pizza</h1>
+  
+  <h2> Here at the Smiling Pizza we serve the topic with a smile so that your kids would love to dive in a start eating some fresh Hot Piza. If you don't feel like just eating Pizza we also serve Lettice and Breedsticks for apptizes while you wait for the Pizza to be made. </h2>
+  </html>
