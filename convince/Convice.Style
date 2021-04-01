@@ -1,0 +1,73 @@
+<style>
+body {
+  background-color: green;
+}
+
+a {
+  color: #ADD8E6;
+  font-size: 150%;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color: 	#CD5C5C;
+  width: 100%;
+  top: 0;
+  left: 0;
+  
+}
+
+li {
+  display: inline;
+  float: left;
+width: 300px;
+padding: 5px;
+margin: 5px;}
+
+li a:hover {
+  background-color: #D1D100;
+  color: orange;
+  font-size: 35px;
+}
+
+h1 {
+  font-size: 150%;
+  color:white;
+  text-align: front;
+}
+
+h2 {
+  font-size: 200%;
+  color: blue;
+  text-align: front;
+}
+h3 {
+  font-size: 100%;
+  color: black;
+  text-align: front;
+}
+
+
+div {
+  background: blue;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+  color: lightgreen;
+  font-weight: bold;
+  position: absolute;
+  animation: mymove 5s infinite;
+}
+
+#div1 {animation-timing-function: linear;}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 1000px;}
+}
+
+
+</style>
